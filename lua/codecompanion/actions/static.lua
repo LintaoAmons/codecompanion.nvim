@@ -42,9 +42,9 @@ return {
     },
   },
   {
-    name = "Open chats ...",
+    name = "Find chats ...",
     strategy = " ",
-    description = "Your currently open chats",
+    description = "Find Your currently open chats",
     opts = {
       index = 2,
       stop_context_insertion = true,
